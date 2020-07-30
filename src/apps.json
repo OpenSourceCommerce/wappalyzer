@@ -15022,7 +15022,7 @@
         31
       ],
       "html": [
-        "<img[^>]+res\\.cloudinary\\.com\\;confidence:80"
+        "<img[^>]+\\.cloudinary\\.com\\;confidence:80"
       ],
       "icon": "Cloudinary.png",
       "website": "https://cloudinary.com"
